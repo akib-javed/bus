@@ -18,7 +18,7 @@ body{
     }
 
     .nav{
-        font-size: 7px;
+        font-size: 14px;
          display: flex;
         justify-content: center;
         align-items: start;
@@ -33,8 +33,8 @@ body{
       
     }
     .logo img{
-        height: 25px;
-        width: 55px;
+        height: 50px;
+        width: 110px;
         align-items: center;
     }
 .bus{
@@ -46,7 +46,7 @@ body{
 
 }
 .bus ul li{
-    padding: 10px;
+    padding: 20px;
     margin-right: 10px;
     list-style: none;
 }
@@ -60,13 +60,13 @@ body{
 .call button{
     border: 1px solid red;
     display: flex;
-    margin-right: 10px;
-    border-radius: 2px;
+    margin-right: 20px;
+    border-radius: 4px;
 }
 #btn1{
     font-weight: lighter;
-    font-size: 7px;
-    padding: 3px 15px;
+    font-size: 14px;
+    padding: 6px 30px;
     background-color: rgba(201, 18, 18, 0.798);
     color: white;
     
@@ -76,8 +76,8 @@ body{
 }
 #btn2{
     font-weight: lighter;
-    font-size: 7px;
-    padding: 7px 15px;
+    font-size: 14px;
+    padding: 14px 30px;
     color: red;
     
     
